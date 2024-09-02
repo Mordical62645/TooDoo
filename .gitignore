@@ -1,7 +1,8 @@
 todos.db
 TooDoo.bat
+setup.py
 .venv/
 __pycache__/
 build_output/todos.db
 build_output/frozen_application_license.txt
-setup.py
+

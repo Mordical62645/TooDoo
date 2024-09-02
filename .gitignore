@@ -4,3 +4,4 @@ __pycache__/
 build_output/todos.db
 build_output/frozen_application_license.txt
 setup.py
+TooDoo.bat

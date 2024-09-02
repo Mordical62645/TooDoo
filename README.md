@@ -71,7 +71,3 @@ YouTube: SymbioSymbioo[Djinno Studios]
 Buy me a coffee? https://ko-fi.com/symbiotonyo
 
 Other methods: https://ko-fi.com/i/IZ8Z812EG6M
-=======
-# TooDoo
-A task tracker made by yours truly, Symbio (me)
->>>>>>> origin/main

@@ -1,6 +1,6 @@
 todos.db
-TooDoo.bat
 setup.py
+TooDoo_copy.bat
 .venv/
 __pycache__/
 build_output/todos.db

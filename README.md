@@ -13,13 +13,13 @@ A task tracker made by yours truly, Symbio <3
 
 
 ## Pre-requisite
-For Windows users, this program is a CLI (Command Line Interface). It's best to use this by downloading the `build_output\` and accessing the program through `TooDoo.bat`
+For Windows users, this program is a CLI (Command Line Interface). It's best to use this by downloading the `build_output` folder and accessing the program through `TooDoo.bat`
 
 
 ## Installation
 
 For Windows users: 
-- access `TooDoo.bat` by downloading the `build_output\`.
+- access `TooDoo.bat` by downloading the `build_output` folder.
 
 
 ## Usage
